@@ -1,6 +1,16 @@
 # React-Native-Line-Chart
 
 
+
+![Demo](https://github.com/Waleed-Nasir/React-Native-Line-Chart/blob/master/image.png)
+
+
+
+
+
+
+
+
 # Usage 
 
         <View style={{ flex:1 }}>
